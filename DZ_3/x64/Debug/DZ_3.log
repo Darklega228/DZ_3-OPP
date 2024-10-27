@@ -1,0 +1,11 @@
+﻿  Desklamp.cpp
+  DZ_3.cpp
+  Laptop.cpp
+C:\Users\ZBook\Desktop\DZ_3\Laptop.h(6,30): warning C4244: инициализация: преобразование "double" в "unsigned short", возможна потеря данных
+  (компиляция исходного файла "DZ_3.cpp")
+  
+C:\Users\ZBook\Desktop\DZ_3\Laptop.h(6,30): warning C4244: инициализация: преобразование "double" в "unsigned short", возможна потеря данных
+  (компиляция исходного файла "Laptop.cpp")
+  
+  Создание кода...
+  DZ_3.vcxproj -> C:\Users\ZBook\Desktop\DZ_3\x64\Debug\DZ_3.exe
